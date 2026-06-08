@@ -10,7 +10,7 @@ to prepare for Data Analyst interviews.
 | Topic | Questions | Status |
 |-------|-----------|--------|
 | Select | 5 | ✅ Done |
-| Basic Joins | 9 | 🔄 In Progress |
+| Basic Joins | 9 | done In Progress |
 | Aggregate Functions | 8 | ⬜ Pending |
 | Sorting and Grouping | 4 | ⬜ Pending |
 | Advanced Joins | 3 | ⬜ Pending |
