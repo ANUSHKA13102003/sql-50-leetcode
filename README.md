@@ -1,8 +1,7 @@
 # 🎯 SQL 50 — Data Analyst Interview Prep
 
 > Solving LeetCode's SQL 50 Study Plan to build strong SQL fundamentals for Data Analyst roles.
-
-![Daily Solving Streak](https://img.shields.io/badge/Automation-Daily%20SQL%20Solving-brightgreen?style=for-the-badge&logo=github)
+[![Daily Solving Streak](https://img.shields.io/badge/Automation-Daily%20SQL%20Solving-brightgreen?style=for-the-badge&logo=github)](https://github.com/ANUSHKA13102003/sql-50-leetcode/actions)
 ![Progress](https://img.shields.io/badge/Progress-6%2F50-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
